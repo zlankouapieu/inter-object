@@ -11,9 +11,8 @@ emitter.on(
     }
 )
 
-
 test('emit event', () => {
-    emitter.emit("hello",{surname:"fist2"})
+    emitter.emit("hello",{surname:"surname"})
     expect(data.length).toBe(1)
 })
 
