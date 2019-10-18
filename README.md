@@ -1,5 +1,6 @@
 # inter-object
-connect objects, use for communique react component
+communicate between objects.
+communicate reactjs components
 
 # example 
 ```js

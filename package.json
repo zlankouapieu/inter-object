@@ -1,6 +1,6 @@
 {
   "name": "inter-object",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "author":"Esdras Koya <zlankouapieu@gmail.com>",
@@ -13,5 +13,6 @@
   "repository": {
     "url": "https://github.com/zlankouapieu/inter-object",
     "type": "git"
-  }
+  },
+  "keywords": ["react","reactjs","reactive","object","data"]
 }
