@@ -1,0 +1,17 @@
+{
+  "name": "inter-object",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author":"Esdras Koya <zlankouapieu@gmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "repository": {
+    "url": "https://github.com/zlankouapieu/inter-object",
+    "type": "git"
+  }
+}
